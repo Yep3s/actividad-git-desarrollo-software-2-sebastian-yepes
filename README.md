@@ -1,2 +1,2 @@
 # actividad-git-desarrollo-software-2-sebastian-yepes
-Este Repositorio fue creado con el fin de presentar la actividad de Desarrollo De Software 2
+Este Repositorio fue creado con el fin de presentar la actividad de Desarrollo De Software 2, Tambien este repositorio fue editado en la rama mi_tarea
